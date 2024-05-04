@@ -16,6 +16,9 @@ IAR Embedded Workbench IDE
 # linking board and computer
 - J-link
 
+# requirments
+- STM32F10x standard peripheral library [link](https://www.st.com/en/embedded-software/stsw-stm32054.html#overview)
+
 # list
 - week3 : turn on/off LED using button and register
 - week5 : turn on/off motor using relay module, button and register
